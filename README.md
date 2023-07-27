@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FVHSSatyendra%2Fdish-web-app%2Ftree%2Fmain)
 
-[!Banner](C:\Users\heman\Pictures>Untitled.png)
+[!Banner](https://firebasestorage.googleapis.com/v0/b/dishes-app-3fbf3.appspot.com/o/images%2FUntitled.png?alt=media&token=3c2e47c9-3a56-4bda-a402-06f67ebec59d)
 
 ## Intro
 
