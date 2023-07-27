@@ -1,0 +1,105 @@
+.dishInputMain {
+    display: flex;
+    flex-direction: column;
+    color: rgba(44, 44, 44,0.5);
+}
+
+.dishInputMain label {
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-top: 8px;
+    font-size: 0.8rem;
+}
+
+.addButton {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    /* margin-top: 10px; */
+}
+
+.hor-div {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.smallSizeInputs {
+    width: 40%;
+}
+
+.hor-div label {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.fileButton {
+    color: #2c2c2c;
+    position: relative;
+    height: 30px;
+    width: 86px;
+    opacity: 0;
+    z-index: 1;
+}
+
+.submitButton {
+    margin-top: 5px;
+    position: relative;
+    bottom: 20px;
+}
+
+.uploadButton {
+    width: 35%;
+    padding: 0;
+    position: relative;
+    bottom: 30px;
+}
+
+.uploadLine {
+    display: flex;
+    margin-top: 5px;
+}
+
+.uploadLine p {
+    margin-left: 10px;
+    position: relative;
+    bottom: 30px;
+}
+
+.chooseFile {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -30px;
+}
+
+.chooseFile p {
+    font-size: 0.5rem;
+    margin-left: 10px;
+    overflow: hidden;
+}
+
+.fileBtn {
+    padding: 5px;
+}
+
+.ingredList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5px;
+    height: 35px;
+}
+
+.ingredList p {
+    font-size: 0.6rem;
+    margin-left: 5px;
+}
+
+.ingScroll {
+    overflow-y: scroll;
+    height: 100%;
+    width: 100%;
+}

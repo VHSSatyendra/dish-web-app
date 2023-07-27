@@ -1,0 +1,73 @@
+.mainHome {
+    height: 92vh;
+    width: 95vw;
+    background: #F8F8F8;
+    margin: 20px;
+    padding: 20px;
+}
+
+.cardArrange {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    color: #FF9F29;
+    text-align: center;
+    margin: 0;
+}
+
+.dishInputsMain {
+    width: 25%;
+    padding: 20px;
+    max-height: 430px;
+}
+
+.dishLstMain {
+    width: 55%;
+    overflow-y: scroll;
+    max-height: 430px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 2%;
+}
+
+.topContent {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.displayCount {
+    margin-left: 30px;
+    width: 12%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.countCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+}
+
+#icon{
+    color: #FF9F29;
+}
+
+.countCard h3{
+    color: #2c2c2c;
+}
+
+.countCard p {
+    color: #1a1919;
+    opacity: 0.4;
+    font-size: 0.8rem;
+}
+

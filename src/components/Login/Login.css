@@ -1,0 +1,52 @@
+.input {
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+    width: 25%;
+    background-color: rgba(250, 243, 227, 0.5); 
+}
+
+.input button {
+    margin-top: 20px;
+}
+
+.input h1 {
+    color: rgb(130, 101, 62);
+}
+
+.input input {
+    border: 1px solid #ccc;
+    height: 1.5rem;
+    width:  100%;
+    padding: 5px;
+}
+
+.input label {
+    color: rgb(38, 31, 13);
+    margin-bottom: 5px;
+}
+
+.main {
+    display: flex;
+    width:  15rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    width: 100%;
+}
+
+h1{
+    color: rgb(69, 67, 60);
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    font-family: 'Poppins';
+}
