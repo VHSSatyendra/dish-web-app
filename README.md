@@ -18,7 +18,7 @@ A Fullstack Web App Dashboard in which the admin can perform CRUD operations for
 
 Copy the the repo url and clone in your local repo.
 
-### `npm run`
+### `npm install`
 
 Installs all the required modules.
 
