@@ -1,0 +1,8 @@
+.button {
+    padding: 7px 30px;
+    background:#FF9F29;
+    border-style: none;
+    color: #f8f8f8;
+    font-family: 'Poppins';
+    cursor: pointer;
+}

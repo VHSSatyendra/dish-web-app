@@ -1,0 +1,6 @@
+.inputField {
+    border: none;
+    box-shadow: 0 2px 8px rgba(162, 161, 161, 0.2);
+    height: 2em;
+    padding: 5px;
+}
